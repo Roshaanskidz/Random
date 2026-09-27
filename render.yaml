@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: pin2sticker-site
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
